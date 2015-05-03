@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 	Button mybtn;
 	ImageView img;
 	Bitmap bmp1, bmp2;
-//dickwatt
+//dickwatt jenish shkay
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
